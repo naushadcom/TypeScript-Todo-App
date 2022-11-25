@@ -1,4 +1,4 @@
-# Deploy Link: https://delightful-bombolone-625244.netlify.app
+# Deploy Link: https://type-script-todo-app-theta.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
